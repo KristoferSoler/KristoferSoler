@@ -13,8 +13,36 @@ Building scalable distributed systems • Exploring cybersecurity & privacy
 ### 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 15/05/2026 02:46:18 UTC
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+🌃 Evening                19 commits          ██████████████████████░░░   86.36 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Wednesday                11 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   8 commits           █████████░░░░░░░░░░░░░░░░   36.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 16/05/2026 02:35:21 UTC
 <!--END_SECTION:waka-->
 
 ### 🔗 Connect
