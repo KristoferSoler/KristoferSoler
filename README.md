@@ -13,8 +13,40 @@ Building scalable distributed systems • Exploring cybersecurity & privacy
 ### 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 28/05/2026 17:42:37 UTC
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+🌃 Evening                19 commits          ██████████████████████░░░   86.36 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Wednesday                11 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   8 commits           █████████░░░░░░░░░░░░░░░░   36.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Rust                     1 hr 53 mins        ████████████████░░░░░░░░░   65.54 % 
+Text                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+INI                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+TOML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+```
+
+
+ Last Updated on 29/05/2026 02:49:40 UTC
 <!--END_SECTION:waka-->
 
 ### 🔗 Connect
