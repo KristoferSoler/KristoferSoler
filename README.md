@@ -13,40 +13,8 @@ Building scalable distributed systems • Exploring cybersecurity & privacy
 ### 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌃 Evening                15 commits          █████████████████████░░░░   83.33 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Wednesday                9 commits           ████████████░░░░░░░░░░░░░   50.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   6 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 1 hr 53 mins        ██████████████░░░░░░░░░░░   54.56 % 
-Bash                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Python                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-SSH Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Rust                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-```
-
-
- Last Updated on 24/07/2026 02:13:34 UTC
+ Last Updated on 25/07/2026 02:13:16 UTC
 <!--END_SECTION:waka-->
 
 ### 🔗 Connect
