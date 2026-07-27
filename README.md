@@ -17,20 +17,20 @@ Building scalable distributed systems • Exploring cybersecurity & privacy
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                3 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-🌃 Evening                17 commits          █████████████████████░░░░   85.00 % 
+🌆 Daytime                3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌃 Evening                15 commits          █████████████████████░░░░   83.33 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  3 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Wednesday                10 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+Tuesday                  3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                9 commits           ████████████░░░░░░░░░░░░░   50.00 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   7 commits           █████████░░░░░░░░░░░░░░░░   35.00 % 
+Sunday                   6 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
 
@@ -38,15 +38,15 @@ Sunday                   7 commits           █████████░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 53 mins        ██████████████░░░░░░░░░░░   54.56 % 
-Bash                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Python                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-SSH Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Rust                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Bash                     36 mins             ███████████████████░░░░░░   75.53 % 
+Markdown                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 
- Last Updated on 26/07/2026 02:24:21 UTC
+ Last Updated on 27/07/2026 02:31:39 UTC
 <!--END_SECTION:waka-->
 
 ### 🔗 Connect
