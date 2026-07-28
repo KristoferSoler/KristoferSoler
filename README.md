@@ -13,6 +13,8 @@ Building scalable distributed systems • Exploring cybersecurity & privacy
 ### 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%2046%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -45,8 +47,30 @@ Git Config               0 secs              ░░░░░░░░░░░�
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 02:31:39 UTC
+```text
+⏱ AI Coding Time: 42 mins (88.06%)
+
+✍️ 348 lines written by AI, 2 lines written by hand (99.43% AI-written)
+
+🔤 1,633,967 Input Tokens, 16,624 Output Tokens
+
+💵 $12.00 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 10 AI Prompts
+
+Claude                   418 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.43% of written lines came from AI
+📝 Concise Prompter — average 242 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.14% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 02:06:16 UTC
 <!--END_SECTION:waka-->
 
 ### 🔗 Connect
