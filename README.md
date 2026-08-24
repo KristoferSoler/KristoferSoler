@@ -40,34 +40,34 @@ Sunday                   6 commits           ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     2 hrs 46 mins       █████████████████████████   99.87 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Rust                     2 hrs 49 mins       █████████████████████████   99.80 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (43.05%)
+⏱ AI Coding Time: 1 hr 13 mins (43.58%)
 
-✍️ 0 lines written by AI, 196 lines written by hand (0.0% AI-written)
+✍️ 42 lines written by AI, 196 lines written by hand (17.65% AI-written)
 
-🔤 882,429 Input Tokens, 5,571 Output Tokens
+🔤 1,564,144 Input Tokens, 8,925 Output Tokens
 
-💵 $9.18 Estimated AI Cost This Week
+💵 $3.22 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 26 AI Prompts
+🧠 3 AI Sessions, 28 AI Prompts
 
-Claude                   78 lines            █████████████████████████   100.00 % 
+Claude                   42 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 17.65% of written lines came from AI
 📝 Concise Prompter — average 127 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 83.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 01:02:57 UTC
+ Last Updated on 24/08/2026 01:00:46 UTC
 <!--END_SECTION:waka-->
 
 ### 🔗 Connect
