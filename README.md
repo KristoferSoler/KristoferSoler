@@ -13,7 +13,7 @@ Building scalable distributed systems • Exploring cybersecurity & privacy
 ### 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2041%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -40,33 +40,34 @@ Sunday                   6 commits           ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     52 mins             █████████████████████████   100.00 % 
+Rust                     1 hr 32 mins        ███████████████████████░░   91.42 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (23.53%)
+⏱ AI Coding Time: 38 mins (38.22%)
 
-✍️ 0 lines written by AI, 81 lines written by hand (0.0% AI-written)
+✍️ 14 lines written by AI, 124 lines written by hand (10.14% AI-written)
 
-🔤 130,027 Input Tokens, 1,581 Output Tokens
+🔤 961,244 Input Tokens, 9,181 Output Tokens
 
-💵 $0.28 Estimated AI Cost This Week
+💵 $2.01 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 4 AI Sessions, 11 AI Prompts
 
-Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude                   22 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,311 characters per prompt
+🧑‍💻 Mostly Hands-On — 10.14% of written lines came from AI
+📄 Detailed Prompter — average 1,005 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 87.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/09/2026 02:39:24 UTC
+ Last Updated on 05/09/2026 02:40:50 UTC
 <!--END_SECTION:waka-->
 
 ### 🔗 Connect
