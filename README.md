@@ -13,7 +13,7 @@ Building scalable distributed systems • Exploring cybersecurity & privacy
 ### 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -40,16 +40,16 @@ Sunday                   7 commits           █████████░░�
 
 ```text
 💬 Programming Languages: 
-Other                    20 mins             █████████████████████░░░░   83.91 % 
-Rust                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Other                    20 mins             ██████████████████░░░░░░░   71.81 % 
+Rust                     7 mins              ███████░░░░░░░░░░░░░░░░░░   28.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (100.0%)
+⏱ AI Coding Time: 23 mins (85.58%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
 
 🔤 576,715 Input Tokens, 3,532 Output Tokens
 
@@ -60,14 +60,14 @@ Rust                     3 mins              ████░░░░░░░�
 Claude                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📄 Detailed Prompter — average 957 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/10/2026 03:46:56 UTC
+ Last Updated on 06/10/2026 04:34:47 UTC
 <!--END_SECTION:waka-->
 
 ### 🔗 Connect
