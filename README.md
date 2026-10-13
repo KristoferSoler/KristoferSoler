@@ -40,18 +40,18 @@ Sunday                   9 commits           █████████░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     21 mins             ██████████████░░░░░░░░░░░   54.64 % 
-HTML                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Markdown                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Rust                     17 mins             ████████████░░░░░░░░░░░░░   49.40 % 
+HTML                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Markdown                 6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (55.76%)
+⏱ AI Coding Time: 21 mins (62.2%)
 
-✍️ 719 lines written by AI, 69 lines written by hand (91.24% AI-written)
+✍️ 719 lines written by AI, 61 lines written by hand (92.18% AI-written)
 
 🔤 552,427 Input Tokens, 25,557 Output Tokens
 
@@ -62,14 +62,14 @@ TOML                     3 mins              ██░░░░░░░░░�
 Claude                   719 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.24% of written lines came from AI
+🤖 AI-Driven — 92.18% of written lines came from AI
 📚 Verbose Prompter — average 3,705 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 9.1% of changed lines were hand-edited
+🚀 High AI Trust — 8.17% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/10/2026 04:03:19 UTC
+ Last Updated on 13/10/2026 05:12:30 UTC
 <!--END_SECTION:waka-->
 
 ### 🔗 Connect
